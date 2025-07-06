@@ -58,7 +58,7 @@ While the scientific foundations are well-known, **this is the first time** the 
 
 ## ✍️ Authorship and Original Contribution
 
-I, **Buntie**, am the first person to formally state this principle in this exact logical and conditional form.  
+I, **shuseendran**, am the first person to formally state this principle in this exact logical and conditional form.  
 This GitHub repository serves as the **permanent, public, time-stamped record of authorship**.  
 The name **“Buntie’s Energy-Gap Duality Principle”** is hereby established and claimed for academic, educational, and scientific reference.
 
@@ -68,7 +68,7 @@ The name **“Buntie’s Energy-Gap Duality Principle”** is hereby established
 
 If referencing this principle in academic work, reports, or lectures:
 
-> **Buntie.** *Buntie’s Energy-Gap Duality Principle*. GitHub. Published [GitHub Timestamp].  
+> **shuseendran.** *Buntie’s Energy-Gap Duality Principle*. GitHub. Published [GitHub Timestamp].  
 > [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME]
 ---
 
