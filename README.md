@@ -1,7 +1,7 @@
-# Buntie-s-Energy-Gap-Duality-Principle
+# Buntie-s-Energy-Gap-Duality-Statement
 Original formulation of the Energy Gap-based Wave–Photon Principle
 
-# 📘 Buntie’s Energy-Gap Duality Principle
+# 📘 Buntie’s Energy-Gap Duality statement
 
 **Author**: Shuseendran  
 **Date of First Public Release**: [GitHub Timestamp]  
@@ -11,7 +11,7 @@ Original formulation of the Energy Gap-based Wave–Photon Principle
 
 ## 🧾 Abstract
 
-*Buntie’s Energy-Gap Duality Principle* provides a clear, conditional framework to determine whether electromagnetic (EM) radiation should be treated as a wave or as discrete particles (photons), based on its interaction with a material's electronic structure — specifically, its energy band gap. This principle simplifies the decision-making process in physics and engineering when modeling EM behavior in different media.
+*Buntie’s Energy-Gap Duality Principle* provides a clear, conditional framework to determine whether electromagnetic (EM) radiation should be treated as a wave or as discrete particles (photons), based on its interaction with a material's electronic structure — specifically, its energy band gap. This statement simplifies the decision-making process in physics and engineering when modeling EM behavior in different media.
 
 ---
 
@@ -60,7 +60,7 @@ While the scientific foundations are well-known, **this is the first time** the 
 
 I, **shuseendran**, am the first person to formally state this principle in this exact logical and conditional form.  
 This GitHub repository serves as the **permanent, public, time-stamped record of authorship**.  
-The name **“Buntie’s Energy-Gap Duality Principle”** is hereby established and claimed for academic, educational, and scientific reference.
+The name **“Buntie’s Energy-Gap Duality statement”** is hereby established and claimed for academic, educational, and scientific reference.
 
 ---
 
@@ -68,7 +68,7 @@ The name **“Buntie’s Energy-Gap Duality Principle”** is hereby established
 
 If referencing this principle in academic work, reports, or lectures:
 
-> **shuseendran.** *Buntie’s Energy-Gap Duality Principle*. GitHub. Published [GitHub Timestamp].  
+> **shuseendran.** *Buntie’s Energy-Gap Duality statement*. GitHub. Published [GitHub Timestamp].  
 > [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME]
 ---
 
