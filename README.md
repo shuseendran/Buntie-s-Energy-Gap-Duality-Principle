@@ -1,7 +1,7 @@
-# Buntie-s-Energy-Gap-Duality-Statement
+# Buntie-s-Energy-Gap-Duality-Principle
 Original formulation of the Energy Gap-based Wave–Photon Principle
 
-# 📘 Buntie’s Energy-Gap Duality statement
+# 📘 Buntie’s Energy-Gap Duality Principle
 
 **Author**: Shuseendran  
 **Date of First Public Release**: [GitHub Timestamp]  
@@ -68,7 +68,7 @@ The name **“Buntie’s Energy-Gap Duality statement”** is hereby established
 
 If referencing this principle in academic work, reports, or lectures:
 
-> **shuseendran.** *Buntie’s Energy-Gap Duality statement*. GitHub. Published [GitHub Timestamp].  
+> **shuseendran.** *Buntie’s Energy-Gap Duality principle*. GitHub. Published [GitHub Timestamp].  
 > [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME]
 ---
 
